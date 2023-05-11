@@ -203,5 +203,10 @@ img:hover {
     transform: scale(1.1);
     box-shadow: 8px 8px 8px -4px #777;
 }
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
 
 
